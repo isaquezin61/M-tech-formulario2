@@ -1,0 +1,36 @@
+body{
+    background-color: hsl(120, 31%, 48%);
+    margin: 0%;
+    text-align: center;
+}
+
+form{
+    padding: 50px;
+    border-radius: 28px;
+    display: inline-block;
+    text-align: left;
+    box-shadow: 0 0 28px;
+    width: 50%;
+    max-width: 600px;
+    margin: auto;
+    background-image: url(https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    align-items: center;
+    font-size: 25px;
+    
+}
+label{
+    font-size: 20px;
+}
+    h3{
+        color:rgb(0, 0, 0);
+        font-size: 25px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    li{
+        font-size: 17px;
+    }
+
+    h1{
+        font-size: 40px;
+    }
+    
